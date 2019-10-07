@@ -151,6 +151,7 @@
      }
      .nav .menu-wrap{
           display: block;
+          left: 50%;
      }
      .slide .content p{
           font-size: 36px;
