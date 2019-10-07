@@ -162,4 +162,62 @@
           display: block;
           width: 100%;
      }
+     .pro-sale{
+          width: 100%;
+     }
+     #property .a1-a2,
+     #property .a3-a4{
+          display:block;
+     }
+     #property .a1-a2 .pro-a,
+     #property .a3-a4 .pro-a{
+          width: 100%;
+     }
+     
+     #why-us .us{
+          display: block;
+     }
+     #why-us .us .we {
+          display: block;
+          width: 100%;
+          padding-top: 50px;
+          
+     }
+     #contact-us p {
+          font-size: 14px;
+     }
+     #contact-us .name input[type=text]{
+          width: 200px;
+     }
+     #contact-us input[type=email],
+     #contact-us input[type=tel]{
+          width:415px;
+     }
+     #contact-us textarea{
+          width:415px;
+     }
+     #contact-us .submit{
+          width: 415px;
+     }
+     footer .main-footer .footer-con:nth-child(2),
+     footer .main-footer .footer-con:nth-child(3){
+          display: none;
+     }
+     footer .main-footer .footer-con p{
+          font-size: 12px;
+          margin-bottom: 10px;
+     }
+     footer .main-footer .footer-con{
+          width: 50%;
+     }
+     footer .main-footer .footer-con h1{
+          font-size: 14px;
+     }
+     footer .main-footer .footer-con h2{
+          font-size: 12px;
+     }
+     .last-footer h2{
+          font-size: 4px;
+          
+     }
  }
