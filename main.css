@@ -143,9 +143,7 @@
      
  }
  @media(max-width:500px) {
-     .nav{
-          max-width: 100%;
-     }
+     
      .min-nav{
           display: none;
      }
@@ -192,7 +190,7 @@
           
      }
      #contact-us p {
-          font-size: 14px;
+          font-size: 10px;
      }
      #contact-us .name input[type=text]{
           width: 200px;
