@@ -153,6 +153,9 @@
           display: block;
           left: 72%;
      }
+     .nav .logo{
+          margin-right: 50px;
+     }
      .slide .content p{
           font-size: 36px;
      }
