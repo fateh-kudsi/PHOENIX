@@ -155,6 +155,7 @@
      }
      .nav .logo{
           margin-right: -150px;
+          display: none;
      }
      .slide .content p{
           font-size: 36px;
