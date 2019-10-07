@@ -143,9 +143,9 @@
      
  }
  @media(max-width:500px) {
-      .body{
-           width: 100vw;
-      }
+     .nav{
+          max-width: 100%;
+     }
      .min-nav{
           display: none;
      }
