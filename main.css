@@ -142,3 +142,24 @@
      }
      
  }
+ @media(max-width:500px) {
+     .min-nav{
+          display: none;
+     }
+     .nav .hid{
+          display: none;
+     }
+     .nav .menu-wrap{
+          display: block;
+     }
+     .slide .content p{
+          font-size: 36px;
+     }
+     #best-bar{
+          display: block;
+     }
+     .bargain {
+          display: block;
+          width: 100%;
+     }
+ }
