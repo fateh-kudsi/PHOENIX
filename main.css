@@ -163,7 +163,7 @@
      }
      .buttons button#next,
      .buttons button#prev{
-          top: 40%;
+          top: 80%;
      }
      #best-bar{
           display: block;
