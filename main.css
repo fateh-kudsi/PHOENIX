@@ -161,6 +161,10 @@
      .slide .content p{
           font-size: 30px;
      }
+     .buttons button#next,
+     .buttons button#prev{
+          top: 40%;
+     }
      #best-bar{
           display: block;
      }
