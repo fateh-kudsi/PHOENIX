@@ -143,6 +143,9 @@
      
  }
  @media(max-width:500px) {
+      .body{
+           width: 100vw;
+      }
      .min-nav{
           display: none;
      }
@@ -154,7 +157,7 @@
           left: 72%;
      }
      .nav .logo{
-          margin-left: -5px;
+          margin-left: -3px;
           
      }
      .slide .content p{
